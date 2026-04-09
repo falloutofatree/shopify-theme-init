@@ -75,8 +75,8 @@ You're ready to develop.
 shopify theme pull
 git diff                        # Inspect any admin-side changes
 # Make your changes
-# Commit and push your changes
-shopify theme push              # Deploy (doesn't touch content/settings)
+# Commit and push your changes to git
+shopify theme push
 ```
 
 ---
